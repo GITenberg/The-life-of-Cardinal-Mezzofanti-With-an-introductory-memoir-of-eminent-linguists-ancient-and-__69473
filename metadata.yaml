@@ -1,11 +1,16 @@
 _repo: The-life-of-Cardinal-Mezzofanti-With-an-introductory-memoir-of-eminent-linguists-ancient-and-__69473
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69473-h/images/cover.jpg
 creator:
   author:
     agent_name: Russell, Charles William
     gutenberg_agent_id: '55282'
     url: http://www.gutenberg.org/2009/agents/55282
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69473#The-life-of-Cardinal-Mezzofanti-With-an-introductory-memoir-of-eminent-linguists-ancient-and-_
 gutenberg_issued: '2022-12-04'
 identifiers:
   gutenberg: '69473'
